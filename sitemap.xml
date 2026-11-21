@@ -10,8 +10,10 @@
     <loc>http://demo.lunar-linux.org/download</loc>
   </url>
   <url>
-    <loc>http://demo.lunar-linux.org/docs/about</loc>
-    <lastmod>2025-11-02</lastmod>
+    <loc>http://demo.lunar-linux.org/history</loc>
+  </url>
+  <url>
+    <loc>http://demo.lunar-linux.org/about</loc>
   </url>
   <url>
     <loc>http://demo.lunar-linux.org/docs/community</loc>
