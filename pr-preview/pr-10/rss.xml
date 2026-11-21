@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lunar Linux News</title>
+    <link>http://demo.lunar-linux.org/pr-preview/pr-10/</link>
+    <description>Latest news and updates from the Lunar Linux project</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 GMT</lastBuildDate>
+    <atom:link href="http://demo.lunar-linux.org/pr-preview/pr-10/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Moving Towards a More Aggressive Release Cycle</title>
+      <link>http://demo.lunar-linux.org/pr-preview/pr-10/news/moving-towards-aggressive-release-cycle</link>
+      <guid isPermaLink="true">http://demo.lunar-linux.org/pr-preview/pr-10/news/moving-towards-aggressive-release-cycle</guid>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
+      <description>Lunar Linux is changing its release strategy to provide more frequent updates and better support for modern hardware.</description>
+    </item>
+    <item>
+      <title>We Are Moving to Libera.Chat Network</title>
+      <link>http://demo.lunar-linux.org/pr-preview/pr-10/news/moving-to-libera-chat-network</link>
+      <guid isPermaLink="true">http://demo.lunar-linux.org/pr-preview/pr-10/news/moving-to-libera-chat-network</guid>
+      <pubDate>Tue, 25 May 2021 00:00:00 GMT</pubDate>
+      <description>Lunar Linux is transitioning its IRC presence to the Libera.Chat network following recent changes in the IRC landscape.</description>
+    </item>
+    <item>
+      <title>We Are Still Very Much Alive</title>
+      <link>http://demo.lunar-linux.org/pr-preview/pr-10/news/we-are-still-very-much-alive</link>
+      <guid isPermaLink="true">http://demo.lunar-linux.org/pr-preview/pr-10/news/we-are-still-very-much-alive</guid>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 GMT</pubDate>
+      <description>Despite periods of quiet development, Lunar Linux continues to thrive. Here&apos;s what we&apos;ve been working on and what&apos;s coming next.</description>
+    </item>
+  </channel>
+</rss>
