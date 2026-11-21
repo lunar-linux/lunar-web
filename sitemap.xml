@@ -1,125 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/</loc>
+    <loc>http://demo.lunar-linux.org/</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/news</loc>
+    <loc>http://demo.lunar-linux.org/news</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/download</loc>
+    <loc>http://demo.lunar-linux.org/download</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/about</loc>
+    <loc>http://demo.lunar-linux.org/docs/about</loc>
     <lastmod>2025-11-02</lastmod>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/community</loc>
+    <loc>http://demo.lunar-linux.org/docs/community</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/community/user-reports</loc>
+    <loc>http://demo.lunar-linux.org/docs/community/user-reports</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/contributing</loc>
+    <loc>http://demo.lunar-linux.org/docs/contributing</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/development</loc>
+    <loc>http://demo.lunar-linux.org/docs/development</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/development/module-basics</loc>
+    <loc>http://demo.lunar-linux.org/docs/development/module-basics</loc>
     <lastmod>2025-11-02</lastmod>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/development/module-functions</loc>
+    <loc>http://demo.lunar-linux.org/docs/development/module-functions</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/development/module-submission</loc>
+    <loc>http://demo.lunar-linux.org/docs/development/module-submission</loc>
     <lastmod>2025-11-02</lastmod>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/development/module-writing</loc>
+    <loc>http://demo.lunar-linux.org/docs/development/module-writing</loc>
     <lastmod>2025-11-02</lastmod>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/faq</loc>
+    <loc>http://demo.lunar-linux.org/docs/faq</loc>
     <lastmod>2025-11-02</lastmod>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/guides/build-times</loc>
+    <loc>http://demo.lunar-linux.org/docs/guides/build-times</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/guides</loc>
+    <loc>http://demo.lunar-linux.org/docs/guides</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs</loc>
+    <loc>http://demo.lunar-linux.org/docs</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/installation/advanced</loc>
+    <loc>http://demo.lunar-linux.org/docs/installation/advanced</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/installation/advanced/kernel-parameters</loc>
+    <loc>http://demo.lunar-linux.org/docs/installation/advanced/kernel-parameters</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/installation/advanced/no-cd-installation</loc>
+    <loc>http://demo.lunar-linux.org/docs/installation/advanced/no-cd-installation</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/installation/advanced/no-network-installation</loc>
+    <loc>http://demo.lunar-linux.org/docs/installation/advanced/no-network-installation</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/installation/advanced/software-raid</loc>
+    <loc>http://demo.lunar-linux.org/docs/installation/advanced/software-raid</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/installation/archive</loc>
+    <loc>http://demo.lunar-linux.org/docs/installation/archive</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/installation/archive/installation-1.5.0</loc>
+    <loc>http://demo.lunar-linux.org/docs/installation/archive/installation-1.5.0</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/installation/complete-install-guide</loc>
+    <loc>http://demo.lunar-linux.org/docs/installation/complete-install-guide</loc>
     <lastmod>2025-11-02</lastmod>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/installation/desktop-environments</loc>
+    <loc>http://demo.lunar-linux.org/docs/installation/desktop-environments</loc>
     <lastmod>2025-11-02</lastmod>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/installation</loc>
+    <loc>http://demo.lunar-linux.org/docs/installation</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/installation/installation-guide</loc>
+    <loc>http://demo.lunar-linux.org/docs/installation/installation-guide</loc>
     <lastmod>2025-11-02</lastmod>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/installation/requirements</loc>
+    <loc>http://demo.lunar-linux.org/docs/installation/requirements</loc>
     <lastmod>2025-11-02</lastmod>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/installation/xorg-setup</loc>
+    <loc>http://demo.lunar-linux.org/docs/installation/xorg-setup</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/package-management</loc>
+    <loc>http://demo.lunar-linux.org/docs/package-management</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/package-management/lin-basics</loc>
+    <loc>http://demo.lunar-linux.org/docs/package-management/lin-basics</loc>
     <lastmod>2026-11-21</lastmod>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/package-management/moonbase</loc>
+    <loc>http://demo.lunar-linux.org/docs/package-management/moonbase</loc>
     <lastmod>2025-11-02</lastmod>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/docs/system-administration</loc>
+    <loc>http://demo.lunar-linux.org/docs/system-administration</loc>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/news/moving-to-libera-chat-network</loc>
+    <loc>http://demo.lunar-linux.org/news/moving-to-libera-chat-network</loc>
     <lastmod>2021-05-25</lastmod>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/news/moving-towards-aggressive-release-cycle</loc>
+    <loc>http://demo.lunar-linux.org/news/moving-towards-aggressive-release-cycle</loc>
     <lastmod>2023-08-20</lastmod>
   </url>
   <url>
-    <loc>https://lunar-linux.github.io/lunar-web/news/we-are-still-very-much-alive</loc>
+    <loc>http://demo.lunar-linux.org/news/we-are-still-very-much-alive</loc>
     <lastmod>2017-10-15</lastmod>
   </url>
 </urlset>
