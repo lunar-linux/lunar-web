@@ -97,7 +97,7 @@ export default defineNuxtConfig({
       // A broken internal link makes the crawler hit a 404 and fails the build.
       failOnError: true,
       // Prefixed with the base URL so they match the links the crawler finds (no duplicate renders).
-      routes: ['/', '/news', '/docs', '/rss.xml', '/sitemap.xml', '/robots.txt', '/search.json', '/moonbase-arrivals.json', ...contentRoutes()]
+      routes: ['/', '/news', '/docs', '/rss.xml', '/sitemap.xml', '/robots.txt', '/search.json', '/moonbase-arrivals.json', '/docs/about', ...contentRoutes()]
         .map(route => joinURL(baseURL, route))
     }
   },

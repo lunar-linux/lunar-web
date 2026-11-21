@@ -42,6 +42,24 @@ export default defineContentConfig({
           checksum: z.string()
         })
       })
+    }),
+    // A single page (/history), linked from the footer only. Its chapters, family tree and
+    // moonlight calendar are MDC components with their data inline (app/components/content/).
+    history: defineCollection({
+      type: 'page',
+      source: 'history.md',
+      schema: z.object({
+        headline: z.string()
+      })
+    }),
+    // A single page (/about), linked from the footer. Its fact sheet and launch sequence are MDC
+    // components with their data inline.
+    about: defineCollection({
+      type: 'page',
+      source: 'about.md',
+      schema: z.object({
+        headline: z.string()
+      })
     })
   }
 })

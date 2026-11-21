@@ -241,4 +241,4 @@ Not sure where to start or how to get involved? Ask in IRC! The community is wel
 - [Contributing Guide](/docs/contributing)
 - [User Reports](/docs/community/user-reports)
 - [FAQ](/docs/faq)
-- [About Lunar Linux](/docs/about)
+- [About Lunar Linux](/about)

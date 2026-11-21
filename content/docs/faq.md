@@ -13,7 +13,7 @@ These are the Frequently Asked Questions for Lunar Linux. You have a question ab
 
 ### What is Lunar Linux?
 
-Please read the [About Lunar Linux](/docs/about) page.
+Please read the [About Lunar Linux](/about) page.
 
 ### Can I run Lunar Linux in 64-bit mode?
 

@@ -9,6 +9,14 @@
           <p class="mt-4 text-lg text-gray-400">
             Your flight plan through Lunar Linux, from the first boot to your first module.
           </p>
+          <!-- For people who reach the docs without knowing what Lunar is -->
+          <p class="mt-3 text-gray-400">
+            New to Lunar? Start with the
+            <NuxtLink
+              to="/about"
+              class="font-medium text-indigo-300 underline-offset-4 transition-colors hover:text-white hover:underline"
+            >pre-flight briefing</NuxtLink>.
+          </p>
         </div>
         <SearchLauncher class="sm:w-80">
           Where are you headed?

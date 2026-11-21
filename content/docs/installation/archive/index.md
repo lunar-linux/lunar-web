@@ -145,7 +145,7 @@ Archived documentation is valuable for:
 
 - [Current Installation Guide](/docs/installation/complete-install-guide)
 - [FAQ](/docs/faq)
-- [About Lunar Linux](/docs/about)
+- [About Lunar Linux](/about)
 - [Contributing](/docs/contributing)
 
 ---

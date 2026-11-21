@@ -4,20 +4,31 @@
     class="px-6 py-24"
     aria-labelledby="features-title"
   >
-    <div class="container mx-auto grid max-w-6xl gap-12 lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)] lg:gap-16">
-      <div>
-        <h2
-          id="features-title"
-          class="text-3xl font-bold tracking-[-0.03em] text-white sm:text-4xl"
+    <div class="container mx-auto max-w-6xl">
+      <!-- This section previews /about, so it links there, like News and Downloads link to theirs -->
+      <div class="flex flex-wrap items-end justify-between gap-4">
+        <div>
+          <h2
+            id="features-title"
+            class="text-3xl font-bold tracking-[-0.03em] text-white sm:text-4xl"
+          >
+            Why Lunar Linux
+          </h2>
+          <p class="mt-4 max-w-md text-gray-400">
+            A source-based system without the busywork. Pick a feature to see the command behind it.
+          </p>
+        </div>
+        <NuxtLink
+          to="/about"
+          class="text-sm font-medium text-indigo-300 transition-colors hover:text-white"
         >
-          Why Lunar Linux
-        </h2>
-        <p class="mt-4 max-w-md text-gray-400">
-          A source-based system without the busywork. Pick a feature to see the command behind it.
-        </p>
+          More about Lunar
+        </NuxtLink>
+      </div>
 
+      <div class="mt-10 grid gap-12 lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)] lg:gap-16">
         <div
-          class="mt-10 flex flex-col gap-1"
+          class="flex flex-col gap-1"
           role="tablist"
           aria-label="Features"
           aria-orientation="vertical"
@@ -49,41 +60,41 @@
             <span class="mt-1 block text-sm text-gray-400">{{ feature.summary }}</span>
           </button>
         </div>
-      </div>
 
-      <div
-        id="feature-panel"
-        role="tabpanel"
-        :aria-labelledby="`feature-tab-${active}`"
-        class="self-center"
-      >
-        <div class="overflow-hidden rounded-xl border border-white/10 bg-gray-950/80 shadow-2xl shadow-indigo-950/40">
-          <div class="flex items-center gap-2 border-b border-white/10 px-4 py-3">
-            <span class="h-3 w-3 rounded-full bg-white/10" />
-            <span class="h-3 w-3 rounded-full bg-white/10" />
-            <span class="h-3 w-3 rounded-full bg-white/10" />
+        <div
+          id="feature-panel"
+          role="tabpanel"
+          :aria-labelledby="`feature-tab-${active}`"
+          class="self-center"
+        >
+          <div class="overflow-hidden rounded-xl border border-white/10 bg-gray-950/80 shadow-2xl shadow-indigo-950/40">
+            <div class="flex items-center gap-2 border-b border-white/10 px-4 py-3">
+              <span class="h-3 w-3 rounded-full bg-white/10" />
+              <span class="h-3 w-3 rounded-full bg-white/10" />
+              <span class="h-3 w-3 rounded-full bg-white/10" />
+            </div>
+            <div class="px-6 py-8 font-mono text-sm leading-7 sm:text-base">
+              <p class="text-gray-500">
+                # {{ current.comment }}
+              </p>
+              <p class="text-gray-100">
+                <span
+                  class="text-purple-300 select-none"
+                  aria-hidden="true"
+                >$ </span>
+                <!-- Screen readers get the whole command; the typing is visual only -->
+                <span class="sr-only">{{ current.command }}</span>
+                <span aria-hidden="true">{{ typed }}</span><span
+                  class="terminal-cursor"
+                  aria-hidden="true"
+                />
+              </p>
+            </div>
           </div>
-          <div class="px-6 py-8 font-mono text-sm leading-7 sm:text-base">
-            <p class="text-gray-500">
-              # {{ current.comment }}
-            </p>
-            <p class="text-gray-100">
-              <span
-                class="text-purple-300 select-none"
-                aria-hidden="true"
-              >$ </span>
-              <!-- Screen readers get the whole command; the typing is visual only -->
-              <span class="sr-only">{{ current.command }}</span>
-              <span aria-hidden="true">{{ typed }}</span><span
-                class="terminal-cursor"
-                aria-hidden="true"
-              />
-            </p>
-          </div>
+          <p class="mt-6 max-w-xl text-gray-300">
+            {{ current.detail }}
+          </p>
         </div>
-        <p class="mt-6 max-w-xl text-gray-300">
-          {{ current.detail }}
-        </p>
       </div>
     </div>
   </section>
