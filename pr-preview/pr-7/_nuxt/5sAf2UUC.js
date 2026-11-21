@@ -1,1 +1,0 @@
-import"./BVEj_1PL.js";import{L as e,S as t,h as n}from"./BqRsKp3u.js";var r=t({__name:`about`,setup(t){return(t,r)=>(e(),n(`div`))}});export{r as default};
