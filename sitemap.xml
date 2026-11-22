@@ -29,18 +29,19 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/docs/development/module-basics</loc>
-    <lastmod>2025-11-02</lastmod>
+    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/docs/development/module-functions</loc>
+    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/docs/development/module-submission</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/docs/development/module-writing</loc>
-    <lastmod>2025-11-02</lastmod>
+    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/docs/faq</loc>
@@ -4880,7 +4881,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/graphviz</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/grep</loc>
