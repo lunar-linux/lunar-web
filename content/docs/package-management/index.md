@@ -2,10 +2,11 @@
 title: "Package Management"
 description: "Managing packages with Lunar's source-based package management system"
 category: "package-management"
+lastUpdated: 2026-11-23
 order: 1
 ---
 
-Package management is the system for installing, removing, and updating software packages. It's a key component of any operating system, and Lunar Linux's approach is unique among Linux distributions.
+Package management is the system for installing, removing, consulting various informations and updating software packages. It's a key component of any operating system, and Lunar Linux's approach is unique among Linux distributions.
 
 ## What Makes Lunar Different
 
@@ -16,30 +17,6 @@ Lunar Linux's package management system is distinctive because all applications 
 - **Transparency:** See exactly what's being installed
 - **Flexibility:** Easy to modify or patch packages
 - **Currency:** Access to latest upstream sources
-
-## Package Management Tools
-
-Lunar provides two mutually exclusive package management implementations:
-
-### lunar (Stable)
-
-The stable, production-ready package management system. This is what most users should run.
-
-```bash
-lin package-name          # Install a package
-lunar update             # Update all installed packages
-lunar renew package-name # Rebuild a package
-```
-
-### theedge (Development)
-
-The development branch containing experimental features and improvements. Use this only if you want to help test new functionality or need bleeding-edge features.
-
-```bash
-lin theedge  # Switch to development branch
-```
-
-**Important:** `lunar` and `theedge` are mutually exclusive. Installing one removes the other.
 
 ## Core Components
 
@@ -54,9 +31,15 @@ The moonbase is Lunar's package repository, containing module definitions for th
 ### Modules
 
 In Lunar, a "module" is a package definition containing:
+- Last known software version
 - Source download locations
+- Last date it was updated
+- Date when it entered the repo
+- Author website
+- Short and long descriptions
 - Build instructions
 - Dependency information
+- List of conflicting modules
 - Configuration options
 
 ## Comparison to Other Systems
@@ -66,9 +49,11 @@ If you're familiar with other package managers:
 | System | Lunar Equivalent | Type |
 |--------|-----------------|------|
 | apt-get / dpkg (Debian) | lin / lunar | Binary → Source |
-| yum / rpm (Red Hat) | lin / lunar | Binary → Source |
+| dnf (Fedora) | lin / lunar | Binary → Source |
 | emerge / portage (Gentoo) | lin / lunar | Source-based |
 | pacman (Arch) | lin / lunar | Binary → Source |
+| yum / rpm (Red Hat) | lin / lunar | Binary → Source |
+| zypper / Yast (OpenSUSE) | lin / lunar | Binary → Source |
 
 Lunar is most similar to Gentoo's Portage but with a different philosophy and implementation.
 
