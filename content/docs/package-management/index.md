@@ -42,21 +42,6 @@ In Lunar, a "module" is a package definition containing:
 - List of conflicting modules
 - Configuration options
 
-## Comparison to Other Systems
-
-If you're familiar with other package managers:
-
-| System | Lunar Equivalent | Type |
-|--------|-----------------|------|
-| apt-get / dpkg (Debian) | lin / lunar | Binary → Source |
-| dnf (Fedora) | lin / lunar | Binary → Source |
-| emerge / portage (Gentoo) | lin / lunar | Source-based |
-| pacman (Arch) | lin / lunar | Binary → Source |
-| yum / rpm (Red Hat) | lin / lunar | Binary → Source |
-| zypper / Yast (OpenSUSE) | lin / lunar | Binary → Source |
-
-Lunar is most similar to Gentoo's Portage but with a different philosophy and implementation.
-
 ## Getting Started
 
 For new users, start with these guides:
