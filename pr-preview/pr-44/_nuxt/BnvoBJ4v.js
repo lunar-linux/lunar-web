@@ -1,0 +1,1 @@
+var e=e=>e.split("`").map((e,t)=>({text:e,code:t%2==1})).filter(e=>e.text!==``);export{e as t};
