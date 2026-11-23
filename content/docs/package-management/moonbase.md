@@ -24,7 +24,7 @@ There are two sections of special significance:
 #### zbeta
 
 Contains modules that are:
-- Downloaded directly from live source code repositories (*-cvs or *-svn modules)
+- Downloaded directly from live source code repositories (*-git, *-cvs or *-svn modules)
 - Unable to be tested extensively by the Lunar team due to hardware availability or other constraints
 
 These modules cannot be guaranteed to work at all times on all hardware.
@@ -48,7 +48,7 @@ A module, to be a bit simplistic, is a set of "instructions" to perform a task -
 If we had a module named FooGame that was located in the "games" section of the moonbase, we would find a directory called FooGame at:
 
 ```
-/var/lib/lunar/moonbase/games/FooGame
+/var/lib/lunar/moonbase/other/games/FooGame
 ```
 
 ## Summary
@@ -82,28 +82,32 @@ You can explore the moonbase structure using several methods:
 ls /var/lib/lunar/moonbase/
 
 # List modules in a specific section
-ls /var/lib/lunar/moonbase/games/
+ls /var/lib/lunar/moonbase/other/games/
 
 # View all modules in a section
-lvu section games
+lvu section other/games
 
 # Search for a module
 lvu search keyword
+lvu apropos keyword
 ```
 
 ### Web Interface
 
-Browse the moonbase online at [lunar-linux.org](http://www.lunar-linux.org/) to see available modules and their details.
+Browse the moonbase online at [github.com](https://github.com/lunar-linux/) to see available modules and their details.
 
 ## Updating the Moonbase
 
 The moonbase should be updated regularly to get the latest module definitions:
 
 ```bash
-# Update moonbase to latest version
+# Update moonbase to latest version and start updating
 lunar update
 
-# Just update moonbase without installing updates
+# Only download a fresh moonbase
+lin moonbase
+
+# Just run updates without downloading a new moonbase
 lunar renew
 ```
 
