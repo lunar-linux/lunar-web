@@ -1109,7 +1109,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/at-spi2-core</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/atk</loc>
@@ -2917,7 +2917,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/dune</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/dunst</loc>
@@ -4385,7 +4385,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/gn</loc>
-    <lastmod>2025-04-16</lastmod>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/gnome</loc>
@@ -8533,7 +8533,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libwmf</loc>
-    <lastmod>2026-09-23</lastmod>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libwnck3</loc>
@@ -9465,7 +9465,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/mesa-lib</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/meson</loc>
@@ -10641,7 +10641,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/openexr</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/openh264</loc>
@@ -11241,7 +11241,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/plasma-login-manager</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/plasma-nm</loc>
@@ -12033,7 +12033,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-msgpack</loc>
-    <lastmod>2026-03-03</lastmod>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-multivolumefile</loc>
@@ -12297,7 +12297,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-pyproj</loc>
-    <lastmod>2025-08-29</lastmod>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-pyproject-hooks</loc>
