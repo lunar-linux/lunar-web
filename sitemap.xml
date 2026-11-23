@@ -2861,7 +2861,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/dpkg</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/dracut</loc>
@@ -8789,7 +8789,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libzip</loc>
-    <lastmod>2025-05-28</lastmod>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libzmf</loc>
@@ -11941,7 +11941,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-incremental</loc>
-    <lastmod>2025-08-29</lastmod>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-iniconfig</loc>
@@ -12189,7 +12189,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-pyasn1</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-pyasn1-modules</loc>
@@ -12369,7 +12369,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-reportlab</loc>
-    <lastmod>2026-09-16</lastmod>
+    <lastmod>2026-11-23</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-requests</loc>
