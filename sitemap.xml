@@ -1956,6 +1956,10 @@
     <lastmod>2023-06-07</lastmod>
   </url>
   <url>
+    <loc>https://demo.lunar-linux.org/modules/chromium-arch</loc>
+    <lastmod>2026-11-19</lastmod>
+  </url>
+  <url>
     <loc>https://demo.lunar-linux.org/modules/chrono</loc>
     <lastmod>2024-08-05</lastmod>
   </url>
@@ -10348,6 +10352,14 @@
     <lastmod>2026-09-02</lastmod>
   </url>
   <url>
+    <loc>https://demo.lunar-linux.org/modules/NVIDIA</loc>
+    <lastmod>2026-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://demo.lunar-linux.org/modules/NVIDIA-390xx</loc>
+    <lastmod>2026-05-05</lastmod>
+  </url>
+  <url>
     <loc>https://demo.lunar-linux.org/modules/nvme-cli</loc>
     <lastmod>2025-12-12</lastmod>
   </url>
@@ -10664,6 +10676,14 @@
     <lastmod>2020-03-08</lastmod>
   </url>
   <url>
+    <loc>https://demo.lunar-linux.org/modules/OpenJDK17U-jdk</loc>
+    <lastmod>2026-05-29</lastmod>
+  </url>
+  <url>
+    <loc>https://demo.lunar-linux.org/modules/OpenJDK8U-jdk</loc>
+    <lastmod>2026-05-29</lastmod>
+  </url>
+  <url>
     <loc>https://demo.lunar-linux.org/modules/openjpeg</loc>
     <lastmod>2021-12-07</lastmod>
   </url>
@@ -10738,6 +10758,10 @@
   <url>
     <loc>https://demo.lunar-linux.org/modules/openvpn</loc>
     <lastmod>2026-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://demo.lunar-linux.org/modules/opera</loc>
+    <lastmod>2026-05-05</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/optipng</loc>
@@ -11066,6 +11090,10 @@
   <url>
     <loc>https://demo.lunar-linux.org/modules/penguin-command</loc>
     <lastmod>2018-12-25</lastmod>
+  </url>
+  <url>
+    <loc>https://demo.lunar-linux.org/modules/pepperflash</loc>
+    <lastmod>2026-05-06</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/perl</loc>
