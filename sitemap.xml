@@ -5765,7 +5765,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/ipython</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/ipython_genutils</loc>
@@ -5825,7 +5825,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/janet</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/jansson</loc>
@@ -6769,7 +6769,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/Kvantum</loc>
-    <lastmod>2026-06-19</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/kwallet</loc>
@@ -9229,11 +9229,11 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/m17n-db</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/m17n-lib</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/m4</loc>
@@ -11877,7 +11877,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-exceptiongroup</loc>
-    <lastmod>2026-03-03</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-faker</loc>
@@ -11897,7 +11897,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-flit-scm</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-freezegun</loc>
@@ -11929,7 +11929,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-hatchling</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-html2text</loc>
@@ -12057,7 +12057,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-mechanize</loc>
-    <lastmod>2024-07-31</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-msgpack</loc>
