@@ -1,1 +1,0 @@
-import{o as e}from"./UEdNr_Vg.js";import{o as t}from"./BfDH_gI_.js";var n=()=>{let n=e();return{withBase:e=>t(n.app.baseURL,e),absoluteUrl:e=>t(n.public.siteUrl,e)}};export{n as t};
