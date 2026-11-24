@@ -1,1 +1,0 @@
-var e=e=>e?new Date(e).toLocaleDateString(`en-US`,{year:`numeric`,month:`long`,day:`numeric`,timeZone:`UTC`}):``;export{e as t};
