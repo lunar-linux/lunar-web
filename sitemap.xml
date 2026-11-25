@@ -2085,7 +2085,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/cmake/</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/cmark/</loc>
@@ -2869,7 +2869,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/dracut/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/dracut-git/</loc>
@@ -3261,7 +3261,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/expat/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/expect/</loc>
@@ -3589,7 +3589,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/flex/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/flexbackup/</loc>
@@ -7365,7 +7365,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libffi/</loc>
-    <lastmod>2026-08-11</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libfido2/</loc>
@@ -8869,7 +8869,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/linux/</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/linux-atm/</loc>
@@ -9209,7 +9209,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/lz4/</loc>
-    <lastmod>2024-08-03</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/lzip/</loc>
@@ -13925,7 +13925,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/shadow/</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/shairplay/</loc>
@@ -14645,7 +14645,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/systemd/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/systemd-sysv/</loc>
@@ -17221,7 +17221,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/zstd/</loc>
-    <lastmod>2025-09-05</lastmod>
+    <lastmod>2026-11-25</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/zug/</loc>
