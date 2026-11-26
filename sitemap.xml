@@ -737,7 +737,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/Alien-Build/</loc>
-    <lastmod>2025-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/Alien-Build-Plugin-Download-GitLab/</loc>
@@ -1577,7 +1577,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/brave-bin/</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/breeze/</loc>
@@ -1773,7 +1773,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/cargo-c/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/caribou/</loc>
@@ -2373,7 +2373,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/Crypt-OpenSSL-RSA/</loc>
-    <lastmod>2024-12-09</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/cryptopp/</loc>
@@ -2505,7 +2505,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/Date-Manip/</loc>
-    <lastmod>2026-03-03</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/datefudge/</loc>
@@ -2513,7 +2513,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/DateTime/</loc>
-    <lastmod>2025-02-27</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/DateTime-Format-Builder/</loc>
@@ -2533,7 +2533,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/DateTime-TimeZone/</loc>
-    <lastmod>2025-03-31</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/dav1d/</loc>
@@ -2553,7 +2553,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/DBD-SQLite/</loc>
-    <lastmod>2025-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/DBI/</loc>
@@ -3249,7 +3249,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/exim/</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/exiv2/</loc>
@@ -5681,7 +5681,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/IO-Socket-SSL/</loc>
-    <lastmod>2026-03-03</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/IO-String/</loc>
@@ -8129,7 +8129,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libprojectM/</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libproxy/</loc>
@@ -9273,7 +9273,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/Mail-SPF/</loc>
-    <lastmod>2024-12-07</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/mailcommon/</loc>
@@ -10057,7 +10057,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/Net-DNS/</loc>
-    <lastmod>2025-09-28</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/Net-DNS-Resolver-Programmable/</loc>
@@ -11105,7 +11105,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/Perl-Tidy/</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/perl-tk/</loc>
@@ -14685,7 +14685,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/tagsfs/</loc>
-    <lastmod>2019-08-15</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/tagtool/</loc>
@@ -14717,7 +14717,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/task/</loc>
-    <lastmod>2025-03-15</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/Task-Weaken/</loc>
