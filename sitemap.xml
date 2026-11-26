@@ -45,7 +45,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/docs/faq/</loc>
-    <lastmod>2026-11-21</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/docs/guides/build-times/</loc>
@@ -90,7 +90,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/docs/installation/installation-guide/</loc>
-    <lastmod>2026-11-22</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/docs/installation/requirements/</loc>
@@ -613,7 +613,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/abseil-cpp/</loc>
-    <lastmod>2025-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/accerciser/</loc>
@@ -1377,7 +1377,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/bcunit/</loc>
-    <lastmod>2025-09-10</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/bdftopcf/</loc>
@@ -1785,7 +1785,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/CastXML/</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/catatonit/</loc>
@@ -2589,7 +2589,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/dd_rescue/</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/ddclient/</loc>
@@ -2813,11 +2813,11 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/docker-buildx/</loc>
-    <lastmod>2025-10-12</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/docker-compose/</loc>
-    <lastmod>2025-10-12</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/docutils/</loc>
@@ -3585,7 +3585,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/flatbuffers/</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/flex/</loc>
@@ -7053,7 +7053,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libbpf/</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libbs2b/</loc>
@@ -7369,7 +7369,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libfido2/</loc>
-    <lastmod>2025-01-09</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libfm/</loc>
@@ -7633,7 +7633,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libimobiledevice-glue/</loc>
-    <lastmod>2026-01-05</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libindi/</loc>
@@ -8349,7 +8349,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libtatsu/</loc>
-    <lastmod>2026-01-05</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libtelepathy/</loc>
@@ -8401,7 +8401,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libucl/</loc>
-    <lastmod>2026-01-01</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libultrahdr/</loc>
@@ -8697,7 +8697,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libxmlb/</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/libXmu/</loc>
@@ -9001,7 +9001,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/lout/</loc>
-    <lastmod>2025-01-12</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/lpeg/</loc>
@@ -9109,7 +9109,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/luv/</loc>
-    <lastmod>2025-12-21</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/lv2/</loc>
@@ -9773,7 +9773,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/mpd/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/mpdecimal/</loc>
@@ -10017,7 +10017,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/ndctl/</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/nedit/</loc>
@@ -11337,11 +11337,11 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/pocketsphinx/</loc>
-    <lastmod>2025-08-19</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/poco/</loc>
-    <lastmod>2026-04-26</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/Pod-Coverage/</loc>
@@ -11889,7 +11889,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-feedparser/</loc>
-    <lastmod>2026-03-03</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-flit-core/</loc>
@@ -11945,7 +11945,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-httplib2/</loc>
-    <lastmod>2026-03-03</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-hyperlink/</loc>
@@ -12001,7 +12001,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-jsonschema/</loc>
-    <lastmod>2025-08-29</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-jsonschema-specifications/</loc>
@@ -12297,7 +12297,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-pyjwt/</loc>
-    <lastmod>2026-03-03</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-pymongo/</loc>
@@ -12429,7 +12429,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-service-identity/</loc>
-    <lastmod>2025-08-29</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-setuptools/</loc>
@@ -12517,7 +12517,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-twisted/</loc>
-    <lastmod>2026-05-11</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/python-txaio/</loc>
@@ -13897,7 +13897,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/setconf/</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/setserial/</loc>
@@ -14241,7 +14241,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/spglib/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/spheres-and-crystals/</loc>
@@ -15573,7 +15573,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/virtuoso/</loc>
-    <lastmod>2025-12-04</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/vis/</loc>
@@ -16725,7 +16725,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/xl2tpd/</loc>
-    <lastmod>2025-12-30</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/xlayoutdisplay/</loc>
@@ -17233,7 +17233,7 @@
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/zvbi/</loc>
-    <lastmod>2025-03-10</lastmod>
+    <lastmod>2026-11-26</lastmod>
   </url>
   <url>
     <loc>https://demo.lunar-linux.org/modules/zxing-cpp/</loc>

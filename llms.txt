@@ -11,7 +11,7 @@
   - [Writing Modules](https://demo.lunar-linux.org/docs/development/module-writing/): A walkthrough of creating a new module for the Lunar Linux moonbase, from DETAILS to a tested build
   - [Module Submission](https://demo.lunar-linux.org/docs/development/module-submission/): How to update a module and submit new or updated modules to the official Lunar Linux moonbase
   - [Module Function Reference](https://demo.lunar-linux.org/docs/development/module-functions/): The Lunar functions and variables available in module files, grouped by the file they are used in
-- [Frequently Asked Questions](https://demo.lunar-linux.org/docs/faq/): Common questions and answers about Lunar Linux, installation, optimization, and package management
+- [Frequently Asked Questions](https://demo.lunar-linux.org/docs/faq/): Short answers to common questions about Lunar Linux: installing, optimizing, adding and removing modules, and the penguin in the logo
 - [Guides and How-Tos](https://demo.lunar-linux.org/docs/guides/): Collection of guides and tutorials for Lunar Linux
   - [Understanding Build Times](https://demo.lunar-linux.org/docs/guides/build-times/): How long Lunar takes to compile things, measured on our build server, and how to make it faster
 - [Installation](https://demo.lunar-linux.org/docs/installation/): Installing Lunar Linux on your system
