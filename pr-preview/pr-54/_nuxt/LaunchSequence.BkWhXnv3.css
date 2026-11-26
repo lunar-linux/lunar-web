@@ -1,0 +1,1 @@
+.is-pending .launch-step[data-v-6317a2b7]{opacity:.001;transform:translateY(8px)}.is-playing .launch-step[data-v-6317a2b7]{transition:opacity .5s ease-out,transform .5s cubic-bezier(.2,.7,.2,1);transition-delay:calc(.15s + var(--i) * .55s)}
