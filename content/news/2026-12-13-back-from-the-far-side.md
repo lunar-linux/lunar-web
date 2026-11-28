@@ -18,7 +18,7 @@ From the outside it looked like ashes. It never was. (Fun fact: the little ping 
 Working behind the scenes, in secret, which in our case means in public on [GitHub](https://github.com/lunar-linux), where hardly anybody was looking:
 
 - **The moonbase never stopped.** Nearly 50,000 changes have landed in the moonbase since 1.7.0, and every single year has seen more than 3,000 of them. It now holds 4,162 modules, all of them in the [new module browser](/modules).
-- **The package manager kept getting sharper.** `lunar` has had twelve releases this year alone. Highlights: the CATALYST trigger system, much faster dependency handling in `lin`, `lrm` and `lvu`, and `llint`, a linter that reads every module.
+- **The package manager kept getting sharper.** `lunar` has had twelve releases this year alone. Highlights: the [CATALYST trigger system](/docs/development/module-basics#the-catalyst-file), which lets a module react when others are installed or removed; much faster dependency handling in `lin`, `lrm` and `lvu`; and [`llint`](/docs/development/module-writing), a linter that reads every module.
 - **The ground crew grew.** Continuous integration builds every contribution, the linter checks it, and since March a new crew member called moonbeam takes version bumps on IRC and turns them into pull requests: more than 1,100 so far.
 - **The ISO kept rolling off the launch pad.** Daily builds since 2017, with serial-console installs, a reworked EFI boot and better partitioning for NVMe drives along the way.
 
