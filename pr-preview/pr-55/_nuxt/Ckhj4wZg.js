@@ -1,0 +1,1 @@
+import{L as e,f as t,h as n,i as r}from"./BqRsKp3u.js";import{a as i}from"#entry";var a={};function o(i,a){return e(),n(r,null,[a[0]||=t(`span`,{class:`shortcut-other`},`Ctrl K`,-1),a[1]||=t(`span`,{class:`shortcut-mac`},`⌘K`,-1)],64)}var s=Object.assign(i(a,[[`render`,o]]),{__name:`ShortcutLabel`});export{s as t};
